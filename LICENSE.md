@@ -1,4 +1,4 @@
-#  
+#  Enhance Obsidian for macOS with premium Tool for Obsidian for macOS - widgets and AI assistant, the #1 tool. Includes widgets and AI assistant for a smoother experience.
 
 
 
